@@ -1,4 +1,4 @@
-// ProximityWarning
+// Proximity Warning
 // adapted and revised from Adafruit's github
 
 ================
